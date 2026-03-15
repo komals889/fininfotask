@@ -64,7 +64,7 @@
         "tagline": "Every ticket, perfectly sequenced."
       },
       {
-        "id": "kitchen",
+        "id": "kitchen_Item",
         "name": "Kitchen management",
         "description": "Smart KDS with routing, course control, and expo screens tailored to each station.",
         "badge": "Back of house",

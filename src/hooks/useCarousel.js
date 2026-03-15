@@ -84,6 +84,7 @@ export function useCarousel(items = [], carouselConfig) {
     index,
     itemsPerView,
     maxIndex,
+    goTo,
     next,
     prev,
     canNext: index < maxIndex,

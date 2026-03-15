@@ -85,7 +85,7 @@ function Carousel({ products = [], carouselConfig, loading }) {
 
       {/* FIXED PAGINATION */}
       <div className="carousel__pagination">
-        {Array.from({ length: maxIndex + 1 }).map((_, i) => (
+        {Array.from({ length: maxIndex+1}).map((_, i) => (
           <button
             key={i}
             type="button"
